@@ -2,7 +2,7 @@
 
 neofetch with soyjaks GEEEEEEEEEEEEEEG
 
-fork of hyfetch, made to make a lot of the brimmy theree things into gems
+fork of hyfetch, made to make a lot of the brimmy things there into gems
 
 ## Installation
 
